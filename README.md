@@ -1,2 +1,2 @@
 # Bot_Guitar_Flash
-Bot que concluirá uma musica Guitar Flash
+Bot que concluirá uma musica Guitar Flash com o Pyautogui
